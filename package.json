@@ -1,0 +1,12 @@
+{
+  "name": "1-week-assignment-3",
+  "version": "1.0.0",
+  "description": "This is 1-week-assignment-3",
+  "main": "assignment-3.js",
+  "scripts": {
+    "test": "assignment-3-test",
+    "now": "node ./js/time.js/"
+  },
+  "author": "Mariusz Rozycki",
+  "license": "ISC"
+}
